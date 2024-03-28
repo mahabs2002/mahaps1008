@@ -1,19 +1,15 @@
- Hi there 👋
-I am Mahalakshmi
+Hi there 👋, I'm Mahalakshmi.
 
-- 🌱 I’m currently learning  Java Fullstack
-🎯Skills
+🌱 I’m currently learning Java Fullstack.
 
-🎯 Programming Languages: Java,JavaScript
-🎯 Web Development: HTML, CSS, React
-🎯Data base: MySql
-🎯Version Control: Git, GitHub
+🎯 Skills:
 
+- **Programming Languages:** Java, JavaScript
+- **Web Development:** HTML, CSS, React
+- **Database:** MySQL
+- **Version Control:** Git, GitHub
 
-📞Contact Me
+📞 Contact Me:
 
-Feel free to reach out to me via [Mail](mailto:mahabs1010@gmail.com)
- or on 
- [LinkedIn Profile](https://www.linkedin.com/in/mahalakshmi-b-s-098a92213)
-
-
+- LinkedIn: [Mahalakshmi's LinkedIn Profile](https://www.linkedin.com/in/mahalakshmi-b-s-098a92213)
+- Email: [youremail@example.com](mailto:youremail@example.com)
