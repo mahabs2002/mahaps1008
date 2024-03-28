@@ -2,7 +2,6 @@
 I am Mahalakshmi
 
 - 🌱 I’m currently learning  Java Fullstack
-- 
 🎯Skills
 
 🎯 Programming Languages: Java,JavaScript
@@ -14,6 +13,6 @@ I am Mahalakshmi
 📞Contact Me
 
 Feel free to reach out to me via [Mail](mailto:mahabs1010@gmail.com)
- or on [LinkedIn](mailto:https://www.linkedin.com/in/
+ or on [LinkedIn](malito:https://www.linkedin.com/in/
 mahalakshmi-b-s-098a92213)
 
