@@ -13,6 +13,7 @@ I am Mahalakshmi
 📞Contact Me
 
 Feel free to reach out to me via [Mail](mailto:mahabs1010@gmail.com)
- or on [LinkedIn](malito:https://www.linkedin.com/in/
-mahalakshmi-b-s-098a92213)
+ or on 
+ [LinkedIn Profile](https://www.linkedin.com/in/mahalakshmi-b-s-098a92213)
+
 
