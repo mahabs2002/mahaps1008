@@ -12,4 +12,4 @@ Hi there 👋, I'm Mahalakshmi.
 📞 Contact Me:
 
 - LinkedIn: [Mahalakshmi's LinkedIn Profile](https://www.linkedin.com/in/mahalakshmi-b-s-098a92213)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- Email: [Mail](mailto:youremail@example.com)
