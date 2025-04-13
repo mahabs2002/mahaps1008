@@ -1,11 +1,12 @@
 Hi there 👋, I'm Mahalakshmi.
 
-🌱 I’m currently learning Java Fullstack.
+💻 I’m currently working as an **Associate Software Development Engineer**  
 
 🎯 Skills:
 
 - **Programming Languages:** Java, JavaScript
 - **Web Development:** HTML, CSS, React
+- **Backend Framework:** Spring Boot
 - **Database:** MySQL
 - **Version Control:** Git, GitHub
 
@@ -15,9 +16,6 @@ Hi there 👋, I'm Mahalakshmi.
 - Portfolio: [My Portfolio](https://mahaps1008.github.io/portfolio/)
 - Email: [Mail](mailto:youremail@example.com)
 
-  
-
- 
 ### Development Tools
 
 - *HTML5*  
@@ -31,6 +29,9 @@ Hi there 👋, I'm Mahalakshmi.
 
 - *JavaScript*  
   ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
+
+- *Spring Boot*  
+  ![Spring Boot Icon](https://img.icons8.com/color/48/000000/spring-logo.png)
 
 - *Visual Studio Code*  
   ![VS Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
