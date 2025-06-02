@@ -13,7 +13,7 @@ Hi there 👋, I'm Mahalakshmi.
 📞 Contact Me:
 
 - LinkedIn: [Mahalakshmi's LinkedIn Profile](https://www.linkedin.com/in/mahalakshmi-b-s-098a92213)
-- Portfolio: [My Portfolio](https://mahaps1008.github.io/portfolio/)
+- Portfolio: [My Portfolio](https://mahabs2002.github.io/portfolio/)
 - Email: [Mail](mailto:youremail@example.com)
 
 ### Development Tools
